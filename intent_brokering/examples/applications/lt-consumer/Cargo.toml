@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT"
 
 [dependencies]
-bollard = "0.16"
+bollard = "0.17"
 intent_brokering_common = { workspace = true }
 examples-common = { path = "../../common/" }
 futures-util = "0.3"
