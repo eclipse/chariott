@@ -18,4 +18,4 @@ tracing = { workspace = true }
 uuid = { workspace = true }
 
 [dev-dependencies]
-tempfile = { version = "3.10.1" }
+tempfile = { version = "3.13.0" }
